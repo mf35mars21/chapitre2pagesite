@@ -1,0 +1,10 @@
+#container1 {
+    border : 2px solid #0f0f0f;
+    background-color:#00ff40;
+    height:100px; 
+    position:absolute;
+    bottom: 5px;
+    right: 0;
+    margin-right: 50px; 
+    text-align: center;            
+}
