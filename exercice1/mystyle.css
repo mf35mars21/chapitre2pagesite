@@ -1,0 +1,36 @@
+#container1 {
+    border : 2px solid #0f0f0f;
+    background-color:#00ff40;
+    position:relative;
+    width:150px; 
+    height:250px; 
+    z-index: 1;    
+}
+.child {
+    border : 1px solid #111111;
+    background-color:#f3dc12;
+    position:relative;
+    width:50px; 
+    height:50px; 
+             
+}
+#container2 {
+    border : 4px solid #0c0c0c;
+    background-color:#ff0022;
+    position:absolute;
+    width:225px; 
+    height:275px; 
+    top:400px; 
+    right:700px;
+    z-index: 4; 
+}
+#container3 {
+    border : 6px solid #0e0d0d;
+    background-color:#3a8fc0;
+    position:absolute;
+    width:300px; 
+    height:425px; 
+    top:200px; 
+    left:100px;
+    z-index: 3; 
+}
