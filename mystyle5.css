@@ -1,0 +1,73 @@
+#bb2 {
+    background-color:#88f591;
+    position:top;
+    width:550px; 
+    height:420px;     
+    box-shadow: 10px -10px #444644fa;     
+    z-index: 1;     
+}
+
+.MaillotsAttaque {
+    display: flex;
+    justify-content: space-around;     
+}
+
+.NomsAttaque {
+    display: flex;    
+    justify-content: space-around;
+    list-style-type: none;
+    background: none;
+    align-items:center;           
+}
+
+
+.MaillotsMilieu {
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+.NomsMilieu {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background: none;
+    align-items:center;           
+}
+
+
+.MaillotsDéfense {
+    display: flex;
+    justify-content: space-around; 
+}
+
+.NomsDéfense {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background: none;
+    align-items:center;           
+}
+
+
+.MaillotGardien {
+    display: flex;   
+    justify-content: space-around; 
+}
+
+.NomGardien {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background: none;
+    align-items:center;           
+}
+
+li {
+    list-style-type: none;  
+}
+
+div {
+    
+    list-style-type: none;
+    align-items:normal;     
+}
