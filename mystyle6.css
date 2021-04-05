@@ -1,0 +1,16 @@
+
+div {
+    /* grande largeur renseignée */
+    width: 505px;
+    /* mais bloqué à largeur max à 50px */
+    max-width: 50px;
+    box-sizing:border-box;
+    float: left;     
+}
+
+/* Ajouté fond body foncé pour visuel */
+body {
+    background-color:#0d0e0ec2;
+    position:top;       
+    z-index: 1;     
+}
