@@ -1,0 +1,52 @@
+#bb2 {
+    background-color:#88f591;
+    position:top;
+    width:550px; 
+    height:420px;     
+    box-shadow: 10px -10px #444644fa;     
+    z-index: 1;     
+}
+
+.MaillotsAttaque {
+    display: flex;
+    justify-content: space-around; 
+    margin-top:  -20px;    
+}
+
+
+
+
+.MaillotsMilieu {
+    display: flex;
+    justify-content: space-evenly; 
+    margin-top:  -40px;
+}
+
+
+
+.MaillotsDéfense {
+    display: flex;
+    justify-content: space-around;
+    margin-top:  -40px; 
+}
+
+
+
+
+.MaillotGardien {
+    display: flex;   
+    justify-content: space-around;
+    margin-top: -40px; 
+}
+
+
+
+li {
+    list-style-type: none;  
+}
+
+div {
+    
+    list-style-type: none;
+    align-items:normal;     
+}
